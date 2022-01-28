@@ -12,10 +12,12 @@ N = 100 or 50
 
 N_s = 1 or 3
 
-\alpha = 0
+alpha = 0
 
 b = 0
 
 N_g = 4
 
 base optimizer: Bayesian Optimizer
+
+Note: alpha and b are omitted in the code. 
